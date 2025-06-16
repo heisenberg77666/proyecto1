@@ -7,7 +7,7 @@ def jugar_piedra_papel_tijera():
     puntos_computadora = 0
 
     for ronda in range(1, rondas + 1):
-        rondas = int(input("¿Cuántas rondas quieres jugar? (3, 5, 7): ")
+        rondas = int(input("¿Cuántas rondas quieres jugar? (3, 5, 7): "))
         print(f"\n--- Ronda {ronda} ---")
         usuario = input("Elige piedra, papel o tijera: ").lower()
         while usuario not in opciones:
