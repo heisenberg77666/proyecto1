@@ -2,7 +2,7 @@
 
 # Proyecto CDG
 
-Este es un proyecto de ejemplo para practicar el uso de Git y GitHub.
+Este es un proyecto del juego Piedra, Papel o Tijera.
 
 ## Archivos principales
 
